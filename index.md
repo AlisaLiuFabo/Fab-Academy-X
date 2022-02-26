@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Fab Academy X course!
+
+### Week 1 GitHub & Markdown
 
 You can use the [editor on GitHub](https://github.com/AlisaLiuFabo/alisaliu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
